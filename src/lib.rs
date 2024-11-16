@@ -1,4 +1,4 @@
-use std::{fs, result};
+use std::fs;
 use std::error::Error;
 use std::env;
 pub struct Config {
